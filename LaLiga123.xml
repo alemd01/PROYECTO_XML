@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marcador>
+  <competicion id="2">
+    <nombre>LFP 2 DIVISION</nombre>
+    <fase id="0">UNICA</fase>
+    <jornada id="42" jornadaAnterior="https://www.marca.com/marcador/futbol/iphone/2/2012_13/fase0/jornada_41/marcador.xml" />
+    <temporada>2012_13</temporada>
+    <grupos>
+      <grupo id="1">
+        <nombre>Grupo A</nombre>
+        <eventos>
+          <evento id="412317">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="12">Racing</equipolocal>
+            <equipovisitante id="24">Hércules</equipovisitante>
+            <resultadolocal>3</resultadolocal>
+            <resultadovisitante>0</resultadovisitante>
+            <tv>MARCA TV</tv>
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412322">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="132">Villarreal</equipolocal>
+            <equipovisitante id="94">Almería</equipovisitante>
+            <resultadolocal>1</resultadolocal>
+            <resultadovisitante>0</resultadovisitante>
+            <tv>C+1</tv>
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412318">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="144">Lugo</equipolocal>
+            <equipovisitante id="370">Ponferradina</equipovisitante>
+            <resultadolocal>2</resultadolocal>
+            <resultadovisitante>2</resultadovisitante>
+            <tv>TVG2</tv>
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412316">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="189">Murcia</equipolocal>
+            <equipovisitante id="110">Las Palmas</equipovisitante>
+            <resultadolocal>1</resultadolocal>
+            <resultadovisitante>0</resultadovisitante>
+            <tv>TVC</tv>
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412319">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="177">Elche</equipolocal>
+            <equipovisitante id="546">Guadalajara</equipovisitante>
+            <resultadolocal>3</resultadolocal>
+            <resultadovisitante>1</resultadovisitante>
+            <tv />
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412320">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="1014">Alcorcón</equipolocal>
+            <equipovisitante id="190">Sabadell</equipovisitante>
+            <resultadolocal>4</resultadolocal>
+            <resultadovisitante>0</resultadovisitante>
+            <tv>TDP</tv>
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412313">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="209">Recreativo</equipolocal>
+            <equipovisitante id="162">Huesca</equipovisitante>
+            <resultadolocal>0</resultadolocal>
+            <resultadovisitante>0</resultadovisitante>
+            <tv>MARCA TV</tv>
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412323">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="213">Xerez</equipolocal>
+            <equipovisitante id="100">Barcelona B</equipovisitante>
+            <resultadolocal>2</resultadolocal>
+            <resultadovisitante>1</resultadovisitante>
+            <tv />
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412321">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="302">Girona</equipolocal>
+            <equipovisitante id="1744">RM Castilla</equipovisitante>
+            <resultadolocal>1</resultadolocal>
+            <resultadovisitante>1</resultadovisitante>
+            <tv>Esports 3</tv>
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412314">
+            <fecha>08/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="878">Mirandés</equipolocal>
+            <equipovisitante id="18">Sporting</equipovisitante>
+            <resultadolocal>2</resultadolocal>
+            <resultadovisitante>1</resultadovisitante>
+            <tv>Telecable</tv>
+            <previacronica>2</previacronica>
+          </evento>
+          <evento id="412315">
+            <fecha>09/06/2013 19:00</fecha>
+            <estado id="3">Finalizado</estado>
+            <equipolocal id="166">Numancia</equipolocal>
+            <equipovisitante id="198">Córdoba</equipovisitante>
+            <resultadolocal>1</resultadolocal>
+            <resultadovisitante>0</resultadovisitante>
+            <tv />
+            <previacronica>2</previacronica>
+          </evento>
+        </eventos>
+        <clasificacion>
+          <team>
+            <name>Elche</name>
+            <rank>1</rank>
+            <points>82</points>
+            <played>42</played>
+            <won>23</won>
+            <lost>6</lost>
+            <drawn>13</drawn>
+            <goals_scored>54</goals_scored>
+            <goals_conceded>27</goals_conceded>
+          </team>
+          <team>
+            <name>Villarreal</name>
+            <rank>2</rank>
+            <points>77</points>
+            <played>42</played>
+            <won>21</won>
+            <lost>7</lost>
+            <drawn>14</drawn>
+            <goals_scored>68</goals_scored>
+            <goals_conceded>38</goals_conceded>
+          </team>
+          <team>
+            <name>Almería</name>
+            <rank>3</rank>
+            <points>74</points>
+            <played>42</played>
+            <won>22</won>
+            <lost>12</lost>
+            <drawn>8</drawn>
+            <goals_scored>72</goals_scored>
+            <goals_conceded>50</goals_conceded>
+          </team>
+          <team>
+            <name>Girona</name>
+            <rank>4</rank>
+            <points>71</points>
+            <played>42</played>
+            <won>21</won>
+            <lost>13</lost>
+            <drawn>8</drawn>
+            <goals_scored>74</goals_scored>
+            <goals_conceded>56</goals_conceded>
+          </team>
+          <team>
+            <name>Alcorcón</name>
+            <rank>5</rank>
+            <points>69</points>
+            <played>42</played>
+            <won>21</won>
+            <lost>15</lost>
+            <drawn>6</drawn>
+            <goals_scored>57</goals_scored>
+            <goals_conceded>55</goals_conceded>
+          </team>
+          <team>
+            <name>Las Palmas</name>
+            <rank>6</rank>
+            <points>66</points>
+            <played>42</played>
+            <won>18</won>
+            <lost>12</lost>
+            <drawn>12</drawn>
+            <goals_scored>62</goals_scored>
+            <goals_conceded>55</goals_conceded>
+          </team>
+          <team>
+            <name>Ponferradina</name>
+            <rank>7</rank>
+            <points>66</points>
+            <played>42</played>
+            <won>19</won>
+            <lost>14</lost>
+            <drawn>9</drawn>
+            <goals_scored>57</goals_scored>
+            <goals_conceded>50</goals_conceded>
+          </team>
+          <team>
+            <name>RM Castilla</name>
+            <rank>8</rank>
+            <points>59</points>
+            <played>42</played>
+            <won>17</won>
+            <lost>17</lost>
+            <drawn>8</drawn>
+            <goals_scored>80</goals_scored>
+            <goals_conceded>62</goals_conceded>
+          </team>
+          <team>
+            <name>Barcelona B</name>
+            <rank>9</rank>
+            <points>57</points>
+            <played>42</played>
+            <won>15</won>
+            <lost>15</lost>
+            <drawn>12</drawn>
+            <goals_scored>76</goals_scored>
+            <goals_conceded>71</goals_conceded>
+          </team>
+          <team>
+            <name>Sporting</name>
+            <rank>10</rank>
+            <points>56</points>
+            <played>42</played>
+            <won>15</won>
+            <lost>16</lost>
+            <drawn>11</drawn>
+            <goals_scored>60</goals_scored>
+            <goals_conceded>53</goals_conceded>
+          </team>
+          <team>
+            <name>Lugo</name>
+            <rank>11</rank>
+            <points>56</points>
+            <played>42</played>
+            <won>15</won>
+            <lost>16</lost>
+            <drawn>11</drawn>
+            <goals_scored>46</goals_scored>
+            <goals_conceded>54</goals_conceded>
+          </team>
+          <team>
+            <name>Numancia</name>
+            <rank>12</rank>
+            <points>55</points>
+            <played>42</played>
+            <won>13</won>
+            <lost>13</lost>
+            <drawn>16</drawn>
+            <goals_scored>53</goals_scored>
+            <goals_conceded>55</goals_conceded>
+          </team>
+          <team>
+            <name>Recreativo</name>
+            <rank>13</rank>
+            <points>54</points>
+            <played>42</played>
+            <won>15</won>
+            <lost>18</lost>
+            <drawn>9</drawn>
+            <goals_scored>46</goals_scored>
+            <goals_conceded>57</goals_conceded>
+          </team>
+          <team>
+            <name>Córdoba</name>
+            <rank>14</rank>
+            <points>54</points>
+            <played>42</played>
+            <won>15</won>
+            <lost>18</lost>
+            <drawn>9</drawn>
+            <goals_scored>55</goals_scored>
+            <goals_conceded>55</goals_conceded>
+          </team>
+          <team>
+            <name>Mirandés</name>
+            <rank>15</rank>
+            <points>52</points>
+            <played>42</played>
+            <won>13</won>
+            <lost>16</lost>
+            <drawn>13</drawn>
+            <goals_scored>35</goals_scored>
+            <goals_conceded>51</goals_conceded>
+          </team>
+          <team>
+            <name>Sabadell</name>
+            <rank>16</rank>
+            <points>52</points>
+            <played>42</played>
+            <won>14</won>
+            <lost>18</lost>
+            <drawn>10</drawn>
+            <goals_scored>54</goals_scored>
+            <goals_conceded>69</goals_conceded>
+          </team>
+          <team>
+            <name>Hércules</name>
+            <rank>17</rank>
+            <points>50</points>
+            <played>42</played>
+            <won>13</won>
+            <lost>18</lost>
+            <drawn>11</drawn>
+            <goals_scored>43</goals_scored>
+            <goals_conceded>53</goals_conceded>
+          </team>
+          <team>
+            <name>Guadalajara</name>
+            <rank>18</rank>
+            <points>50</points>
+            <played>42</played>
+            <won>12</won>
+            <lost>16</lost>
+            <drawn>14</drawn>
+            <goals_scored>46</goals_scored>
+            <goals_conceded>53</goals_conceded>
+          </team>
+          <team>
+            <name>Murcia</name>
+            <rank>19</rank>
+            <points>47</points>
+            <played>42</played>
+            <won>12</won>
+            <lost>19</lost>
+            <drawn>11</drawn>
+            <goals_scored>43</goals_scored>
+            <goals_conceded>56</goals_conceded>
+          </team>
+          <team>
+            <name>Racing</name>
+            <rank>20</rank>
+            <points>46</points>
+            <played>42</played>
+            <won>12</won>
+            <lost>20</lost>
+            <drawn>10</drawn>
+            <goals_scored>38</goals_scored>
+            <goals_conceded>51</goals_conceded>
+          </team>
+          <team>
+            <name>Huesca</name>
+            <rank>21</rank>
+            <points>45</points>
+            <played>42</played>
+            <won>11</won>
+            <lost>19</lost>
+            <drawn>12</drawn>
+            <goals_scored>46</goals_scored>
+            <goals_conceded>58</goals_conceded>
+          </team>
+          <team>
+            <name>Xerez</name>
+            <rank>22</rank>
+            <points>30</points>
+            <played>42</played>
+            <won>7</won>
+            <lost>26</lost>
+            <drawn>9</drawn>
+            <goals_scored>38</goals_scored>
+            <goals_conceded>74</goals_conceded>
+          </team>
+        </clasificacion>
+      </grupo>
+    </grupos>
+  </competicion>
+</marcador>
